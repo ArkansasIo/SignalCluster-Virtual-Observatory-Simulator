@@ -1,0 +1,25 @@
+slot,name,role,capacity_tb,physical
+1,Drive 01,Client / management,32,false
+2,Drive 02,Server / signal data,32,false
+3,Drive 03,Server / signal data,32,false
+4,Drive 04,Server / signal data,32,false
+5,Drive 05,Server / signal data,32,false
+6,Drive 06,Server / signal data,32,false
+7,Drive 07,Server / signal data,32,false
+8,Drive 08,Server / signal data,32,false
+9,Drive 09,Server / signal data,32,false
+10,Drive 10,Server / signal data,32,false
+11,Drive 11,Server / signal data,32,false
+12,Drive 12,Server / signal data,32,false
+13,Drive 13,Server / signal data,32,false
+14,Drive 14,Server / signal data,32,false
+15,Drive 15,Server / signal data,32,false
+16,Drive 16,Server / signal data,32,false
+17,Drive 17,Server / signal data,32,false
+18,Drive 18,Server / signal data,32,false
+19,Drive 19,Server / signal data,32,false
+20,Drive 20,Server / signal data,32,false
+21,Drive 21,Server / signal data,32,false
+22,Drive 22,Server / signal data,32,false
+23,Drive 23,Server / signal data,32,false
+24,Drive 24,Server / signal data,32,false
