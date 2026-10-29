@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalCluster.Core", "src\SignalCluster.Core\SignalCluster.Core.csproj", "{7C88F6A1-AD2B-4D9B-8F55-3A7B8F0A1001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalCluster.Service", "src\SignalCluster.Service\SignalCluster.Service.csproj", "{7C88F6A1-AD2B-4D9B-8F55-3A7B8F0A1002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalCluster.Tests", "tests\SignalCluster.Tests\SignalCluster.Tests.csproj", "{7C88F6A1-AD2B-4D9B-8F55-3A7B8F0A1003}"
+EndProject
+Global
+ GlobalSection(SolutionConfigurationPlatforms) = preSolution
+  Debug|Any CPU = Debug|Any CPU
+  Release|Any CPU = Release|Any CPU
+ EndGlobalSection
+EndGlobal
