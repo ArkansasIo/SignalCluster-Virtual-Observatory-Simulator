@@ -1,0 +1,1 @@
+<Project><PropertyGroup><TargetFramework>net8.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><Version>0.2.0</Version><Authors>ArkansasIo</Authors><Product>SignalCluster Virtual Observatory Simulator</Product></PropertyGroup></Project>
