@@ -1,0 +1,19 @@
+{
+  "product": "SignalCluster",
+  "buildName": "SignalCluster Virtual Observatory Simulator",
+  "buildId": "SC-SIM-2026.10.29-001",
+  "version": "0.2.0",
+  "developer": "ArkansasIo",
+  "targetRuntime": ".NET 8",
+  "deploymentTarget": "Windows development environment / Shadow PC",
+  "releaseChannel": "prototype",
+  "buildStatus": "source initialization; .NET build not yet verified",
+  "hardwareMode": "simulation-only",
+  "features": [
+    "synthetic pulsar simulation",
+    "channel planning and signal algorithm workbench",
+    "logical virtual-device topology",
+    "virtual radio receiver metadata",
+    "synthetic browser audio and WAV export planned in prototype bundle"
+  ]
+}
